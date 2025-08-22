@@ -1,4 +1,6 @@
 a=7
 b=6
 c=a+b
+d=76
+a=d
 print(c)
